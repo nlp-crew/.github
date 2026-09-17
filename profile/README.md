@@ -1,6 +1,6 @@
 # nlp-crew
 
-Personal space for learning and building in AI/ML and NLP: notes, experiments, and small projects created while transitioning from frontend engineering to AI/ML engineering.
+Personal space for learning and building in AI/ML and NLP: notes, experiments, and small projects.
 
 ## What's here
 
